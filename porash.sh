@@ -229,9 +229,5 @@ gcloud projects remove-iam-policy-binding $DEVSHELL_PROJECT_ID \
 --role=roles/viewer
 
 echo "${BG_GREEN}${BOLD}Congratulations For Completing The Lab !!!${RESET}"
-echo ""
-echo "${CYAN}${BOLD}Don't forget to subscribe to Dr. Abhishek's YouTube channel:${RESET}"
-echo "${YELLOW}https://www.youtube.com/@drabhishek.5460/videos${RESET}"
-echo "${MAGENTA}For more helpful cloud computing tutorials and guides!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
